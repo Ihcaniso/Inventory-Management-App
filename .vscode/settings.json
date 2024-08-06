@@ -1,0 +1,9 @@
+{
+  "autoimport.doubleQuotes": false,
+  "autoimport.showNotifications": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnType": false
+}
