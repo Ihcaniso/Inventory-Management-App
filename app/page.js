@@ -1,4 +1,5 @@
 "use client";
+import "core-js/features/promise";
 import { useState, useEffect } from "react";
 import {
   collection,
